@@ -1,0 +1,124 @@
+/*--------------------------------------------------------------
+# eCommerce Default Start
+--------------------------------------------------------------*/
+html {
+	font-family: sans-serif;
+}
+body {
+	margin: 0;
+}
+h1 {
+	font-size: 30px;
+	margin: 0;
+	letter-spacing: 1px;
+}
+div {
+	display: block;
+}
+a {
+	text-decoration: none;
+}
+ul {
+	margin: 0;
+}
+.main-menu a {
+	font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+p,
+a {
+	font-family: "Agency FB";
+	font-weight: normal;
+}
+/*--------------------------------------------------------------
+# eCommerce Default End
+--------------------------------------------------------------*/
+#page h1 {
+	color: #28d258;
+	font-family: "Haettenschweiler";
+}
+#page {
+	width: 900px;
+	margin: 0 auto;
+}
+.clearfix {
+	clear: both;
+}
+.clearfix:after {
+	content: ".";
+	visibility: hidden;
+	display: block;
+	height: 0;
+	clear: both;
+}
+.page-title {
+	float: left;
+    padding: 4px 17px;
+}
+.search-box {
+	float: right;
+    padding: 10px 17px;
+}
+.search-box a,
+.search-box a img {
+    vertical-align: middle;
+}
+.search-box a img {
+	width: 19px;
+}
+.nav-menu {
+	background-image: url(http://ecommerce.localhost/css/images/head_bg.png);
+    background-size: 100% 100%;
+}
+.main-menu {
+	width: 600px;
+	margin: 0 auto;
+}
+.main-menu ul {
+	list-style-type: none;
+}
+.main-menu ul li {
+	display: inline-block;
+    padding: 9px 9px 15px;
+}
+.main-menu ul li:after {
+    content: "|";
+    color: #fff;
+    margin-left: 25px;
+}
+.main-menu ul li:nth-child(1):before {
+	content: "|";
+    color: #fff;
+    margin-right: 25px;
+}
+.main-menu ul li a {
+	color: #fff;
+	padding: 11px;
+}
+.header-content {
+	background-color: #28d258;
+}
+.slider {
+	height: auto;
+	background-color: #28d258;
+}
+.slider-product {
+    float: left;
+    width: 58%;
+    padding: 15px 0;
+}
+.slider-product img {
+	width: 100%;
+}
+.slider-product-description {
+	float: left;
+	width: 38%;
+	color: #fff;
+}
+.slider-product-description a {
+	color: #fff;
+	float: right;
+}
