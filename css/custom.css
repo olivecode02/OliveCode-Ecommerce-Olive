@@ -107,16 +107,16 @@ a {
 	background-color: #28d258;
 }
 .slider-product {
-    float: left;
-    width: 58%;
-    padding: 15px 0;
+	float: left;
+	width: 535px;
+	padding: 15px 0;
 }
 .slider-product img {
 	width: 100%;
 }
 .slider-product-description {
 	float: left;
-	width: 38%;
+	width: 320px;
 	color: #fff;
 }
 .slider-product-description a {
@@ -410,10 +410,10 @@ a {
 	padding-bottom: 164px;
 }
 .olive-comment p:first-child {
-	text-shadow: 2px 2px 2px #fff;
+	text-shadow: 2px 2px 0px #fff;
 }
 .olive-comment p:nth-child(2) {
-	text-shadow: 2px 2px 2px #000;
+	text-shadow: 1px 1px 0px #000;
 }
 .olive-comment p:first-child {
     font-family: "Haettenschweiler";
