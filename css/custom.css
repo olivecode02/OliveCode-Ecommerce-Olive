@@ -404,7 +404,7 @@ a {
 }
 .olive-comment {
 	background-image: url(http://ecommerce.localhost/css/images/group_bg.jpg);
-	background-repeat: no-repeat;
+	background-repeat: no-repeat; 
 	background-size: 100%;
 	padding-top: 20px;
 	padding-bottom: 164px;
