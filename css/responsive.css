@@ -128,6 +128,29 @@ input[type=checkbox]:checked ~ #menu{
 	.slider {
 		height: auto;
 	}
+	.featured-products-box:nth-child(3),
+	.featured-products-box:nth-child(6) {
+		margin: 0 !important;
+		margin-top: 30px !important;
+		margin-left: 2.5% !important;
+	}
+	.featured-products-box {
+		width: 95% !important;
+		margin-left: 2.5% !important;
+	}
+	.featured-products-group,
+	.brand-category {
+		width: 100%;
+	}
+	.featured-products-box {
+		display: block !important;
+	}
+	.brand-category > div {
+		display: block;
+		margin: 0 auto !important;
+		width: 60%;
+		margin-bottom: 27px !important;
+	}
 }
 @media only screen and (max-width: 600px) {
 	.nav-menu {
