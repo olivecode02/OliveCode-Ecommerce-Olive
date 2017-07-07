@@ -151,6 +151,12 @@ input[type=checkbox]:checked ~ #menu{
 		width: 60%;
 		margin-bottom: 27px !important;
 	}
+	.footer-top-container > div {
+		display: block;
+	}
+	.footer-top-container {
+		width: 100% !important;
+	}
 }
 @media only screen and (max-width: 600px) {
 	.nav-menu {
