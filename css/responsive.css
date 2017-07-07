@@ -157,6 +157,42 @@ input[type=checkbox]:checked ~ #menu{
 	.footer-top-container {
 		width: 100% !important;
 	}
+	.brand2-category {
+		text-align: center;
+	}
+	.brand2-category ul li {
+		display: block;
+		margin: 0 auto;
+	}
+	.brand2-category ul li a img {
+		width: 30%;
+		padding: 4%;
+	}
+	.brand2-category {
+		text-align: center;
+	}
+	.brand2-category ul {
+		width: 100%;
+	}
+	.product-showcase-p1 {
+		display: block;
+		width: 90%;
+		text-align: center;
+		padding: 0;
+		padding-left: 5%;
+	}
+	.product-showcase {
+		background-size: 100% 100%;
+		height: auto;
+	}
+	.product-showcase-p2 p,
+	.product-showcase-p2 h2 {
+		text-align: center;
+	}
+	.product-showcase-p2 {
+		width: 100%;
+		margin: 0 auto;
+	}
 }
 @media only screen and (max-width: 600px) {
 	.nav-menu {
